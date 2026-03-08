@@ -1,6 +1,12 @@
+# Aviso
+
+Este é uma cópia (fork) do repositório original da Semana DevOps da Linuxtips em 2026. Minha ideia aqui, é implementar esse mesmo APP DEMO, utilizando outras abordagens de implementação, especialmente da infra K8S.
+
+Vou atualizando aqui a medida que for evoluindo essa ideia. 
+
 # Semana DevOps Map
 
-Este repositório contém a aplicação **Semana DevOps Map**, desenvolvida durante a **Semana DevOps** da LINUXtips.
+Este repositório contém a aplicação **Semana DevOps Map**, desenvolvida durante a **Semana DevOps** da LINUXtips 2026.
 
 A aplicação consiste em um mapa interativo em tempo real onde profissionais e estudantes podem registrar sua presença, informando nome, localização e cargo/área de atuação.
 
