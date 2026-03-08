@@ -1,8 +1,9 @@
 # Aviso
 
-Este é uma cópia (fork) do repositório original da Semana DevOps da Linuxtips em 2026. Minha ideia aqui, é implementar esse mesmo APP DEMO, utilizando outras abordagens de implementação, especialmente da infra K8S.
+Este é uma cópia (fork) do repositório original da Semana DevOps da Linuxtips em 2026. 
+Minha ideia aqui, é implementar esse mesmo APP DEMO, inicialmente reproduzindo os padrão utlizado na live, e na sequência utilizando outras abordagens de implementação, especialmente para implementação da infra K8S e validar o comportamento dessa aplicação nesses cenários, aprimorando assim meus conhecimentos e apresentando a minha capacidade de transcionar entre o Sysadmin e o DevOps Engineer.
 
-Vou atualizando aqui a medida que for evoluindo essa ideia. 
+Vou atualizando aqui a medida que for evoluindo esse movimento. 
 
 # Semana DevOps Map
 
